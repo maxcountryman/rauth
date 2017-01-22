@@ -3,6 +3,12 @@ Rauth Changelog
 
 This provides a list of changes to rauth by release.
 
+Changes in Version 0.7.3
+------------------------
+  * Moved canonical fork to maxcountryman/rauth
+  * Fixed Python 3.6 dict bug #1
+  * Added Python 3.4 support #2
+
 Changes in Version 0.7.2
 ------------------------
   * Fixed encoding of tilde bug in urlencode #186

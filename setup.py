@@ -8,7 +8,7 @@
     Links
     `````
     * `documentation <https://rauth.readthedocs.org/en/latest/>`_
-    * `development version <https://github.com/litl/rauth>`_
+    * `development version <https://github.com/maxcountryman/rauth>`_
 '''
 
 import os

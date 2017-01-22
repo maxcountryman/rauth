@@ -3,7 +3,7 @@
 A simple Python OAuth 1.0/a, OAuth 2.0, and Ofly consumer library built on top
 of Requests.
 
-[![build status](https://secure.travis-ci.org/litl/rauth.png?branch=master)](https://travis-ci.org/#!/litl/rauth)
+[![build status](https://secure.travis-ci.org/maxcountryman/rauth.png?branch=master)](https://travis-ci.org/#!/maxcountryman/rauth)
 
 
 ## Features
@@ -84,7 +84,7 @@ for i, tweet in enumerate(r.json(), 1):
     print(u'{0}. @{1} - {2}'.format(i, handle, text))
 ```
 
-Here's the full example: [examples/twitter-timeline-cli.py](https://github.com/litl/rauth/blob/master/examples/twitter-timeline-cli.py).
+Here's the full example: [examples/twitter-timeline-cli.py](https://github.com/maxcountryman/rauth/blob/master/examples/twitter-timeline-cli.py).
 
 
 ## Documentation

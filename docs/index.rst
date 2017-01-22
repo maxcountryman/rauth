@@ -6,7 +6,7 @@ Rauth
 A simple Python OAuth 1.0/a, OAuth 2.0, and Ofly consumer library built on top
 of `Requests`_.
 
-.. _rauth: https://github.com/litl/rauth
+.. _rauth: https://github.com/maxcountryman/rauth
 .. _Requests: https://github.com/kennethreitz/requests
 
 Installation
